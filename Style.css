@@ -1,0 +1,26 @@
+
+#chart_pie{
+    width: 1000px;
+    margin-right: 100px;
+    background-color: aqua;
+    border: solid 5px blueviolet;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px 3px black;
+    grid-row: 500px;
+}
+
+#chart_bar{
+    margin: 10px;
+    background-color: aqua;
+    border: solid 5px blueviolet;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px 3px black;
+}
+
+#chart_line{
+    margin: 10px;
+    background-color: aqua;
+    border: solid 5px blueviolet;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px 3px black;
+}
